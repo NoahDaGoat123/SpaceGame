@@ -8,11 +8,10 @@ Dodge enemies and blast them to get the highest score possible!
 - ⬆️ Arrow Key → Shoot  
 - Try to beat my high score of **23**!
 
-## 📸 Screenshot
-![Gameplay Screenshot](screenshot.png)
+
 
 ## 🕹️ Play Online
-👉 [Play on Scratch](https://scratch.mit.edu/projects/2111466464/)  
+👉 [Play on Scratch](https://scratch.mit.edu/projects/1211144664)
 
 ## ⚡ Notes
 - Debugged and coded by **NoahDaGoat123**  
